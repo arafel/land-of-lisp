@@ -1,3 +1,5 @@
 .*sw?
 *.fas
 *.lib
+*.fasl
+*~
